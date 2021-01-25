@@ -1,7 +1,5 @@
 # DNS
 DNS
-
- Script
 #     DNS.ps1
 
 # Description: 
@@ -19,4 +17,4 @@ DNS
 #     .\DNS.ps1 '<Hostname | IP>' 'host' '<expected value>'
 # Sample:
 #     .\DNS.ps1 'DC01.contoso.com' 'smpp.activexperts-labs.com' '84.53.114.73'
-  #   .\DNS.ps1 'DC01.contoso.com' 'google.com' '216.58.201.110'
+  #   .\DNS.ps1 'DC01.contoso.com' 'google.com' '216.58.201.110'a
